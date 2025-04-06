@@ -1,4 +1,10 @@
 ##
+<div> 
+  <a href="https://www.youtube.com/@Blew-Code" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+ 	<a href="https://instagram.com/tm_minervaj" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+  <a href="https://discord.com/users/1256082647080370282" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
+  <a href = "mailto:blewminerva@gmail.com"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+</div>
 
 <h1 align="center">💜 Hello 💜, I'm <br> <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=36&duration=5062&pause=1000&color=D000E3&center=true&vCenter=true&width=342&lines=Thiago+Minerva%F0%9F%92%AA;Your+future+Dev%F0%9F%92%BB" alt="Typing SVG" /></h1>
 
@@ -33,10 +39,4 @@
 
 ##
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-d000e3?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  
-</div>
+
