@@ -14,12 +14,11 @@
 
 - 📍 Brasil, SP
 - 🎓 Ensino Médio | Autodidata/Freelancer em programação
-- 🔮 Programador, Lutador de MMA amador, Guitarrista e Sonhador
+- 🔮 Programador, Lutador de MMA amador, Guitarrista
 - 💬 Se precisar de algo, o que quer que seja, só chamar 👉 <a href="https://discord.com/users/1256082647080370282" target="_blank">Meu Perfil do Discord</a>
 
+<br>
 
-<br>
-<br>
 ## 💻 Tecnologias
 
 <div align="left">
